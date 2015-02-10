@@ -2,7 +2,6 @@ class Viewer.Dynamic extends Viewer
 	@playing = false
 	nextImage : Error
 
-
 	constructor: (options) ->
 		super(options)
 		@delay = 50

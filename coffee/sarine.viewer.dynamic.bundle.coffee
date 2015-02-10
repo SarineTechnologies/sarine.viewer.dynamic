@@ -38,7 +38,7 @@ console.log ""
 class Viewer.Dynamic extends Viewer
 	@playing = false
 	nextImage : Error
-
+	console.log("hello")
 
 	constructor: (options) ->
 		super(options)

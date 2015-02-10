@@ -1,3 +1,4 @@
+/*! sarine.viewer.dynamic - v0.0.0 -  Tuesday, February 10th, 2015, 1:04:58 PM */
 (function() {
   var __hasProp = {}.hasOwnProperty,
     __extends = function(child, parent) { for (var key in parent) { if (__hasProp.call(parent, key)) child[key] = parent[key]; } function ctor() { this.constructor = child; } ctor.prototype = parent.prototype; child.prototype = new ctor(); child.__super__ = parent.prototype; return child; };

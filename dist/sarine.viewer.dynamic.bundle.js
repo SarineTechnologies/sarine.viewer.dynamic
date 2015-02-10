@@ -1,3 +1,4 @@
+/*! sarine.viewer.dynamic - v0.0.0 -  Tuesday, February 10th, 2015, 1:04:58 PM */
 (function() {
   var Viewer,
     __hasProp = {}.hasOwnProperty,
@@ -71,6 +72,8 @@
     Dynamic.playing = false;
 
     Dynamic.prototype.nextImage = Error;
+
+    console.log("hello");
 
     function Dynamic(options) {
       Dynamic.__super__.constructor.call(this, options);
